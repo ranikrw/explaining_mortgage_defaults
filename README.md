@@ -7,4 +7,4 @@ Ozturkkal, B., & Wahlstrøm, R. R. (2022). Explaining default of mortgages in an
 Run the code in *main.py*. The "functions" folder contains the functions used by the code. The descriptive statistics and results used in the paper are saved in the "descriptives", "results", and "results_plots" folders.
 
 <br/><br/>
-**Permanent link to the content in this repository:** https://MortgageDefault2023.ranik.no
+**Permanent link to the content in this repository:** https://ExplainingMortgageDefaults2024.ranik.no
